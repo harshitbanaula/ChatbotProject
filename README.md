@@ -65,8 +65,9 @@ This Python project scrapes content from a given website and interacts with the 
 5. **Run the Script**:
    - After setting up the `.env` file and installing dependencies, run the script:
    
+         ```bash
      python chatbot.py
-    
+     ```
 
 ## How It Works
 
